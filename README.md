@@ -3,7 +3,7 @@
 The purpose of this project is to conduct a Customer Segmentation Analysis for an Bike Company. Customer segmentation is performed by developing a RFM Model. RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. In this analysis the customer segment was divided into 5 groups. The analysis will help in determining which customers segments should be targeted in order to enhance sales revenue for the company. A Sales Dashboard for Customer Segmentation is developed using Power BI and the data quality assessment and analysis is done using SQL.
 # Power BI Dashboard
 
-The Sales Dashboard for Customer Segmentation can be found [here](https://app.powerbi.com/view?r=eyJrIjoiOTg5ODI4OWMtZDc0YS00ZmQ0LTg5NjUtMjg1YWU1MTZhYzhhIiwidCI6IjA5NjdkODE0LTU3NjgtNGYxMi05N2YwLTc4NzE1ZjkwMTlhYiIsImMiOjEwfQ%3D%3D).
+The Sales Dashboard for Customer Segmentation can be found [here](https://thuybumr.github.io/Customer-segmentation-analysis/).
 
 
 # 1. Data Resource
