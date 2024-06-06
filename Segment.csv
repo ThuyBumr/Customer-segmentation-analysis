@@ -1,0 +1,65 @@
+R-F-M Score ,Segment,Description,Sort 
+4-4-4,Loyal,Customer who transacted recently and frequently and spent a lot ,1
+4-4-3,Loyal,Customer who transacted recently and frequently and spent a lot ,1
+4-3-4,Loyal,Customer who transacted recently and frequently and spent a lot ,1
+4-3-3,Loyal,Customer who transacted recently and frequently and spent a lot ,1
+3-3-4,Loyal,Customer who transacted recently and frequently and spent a lot ,1
+3-1-1,New Customers,Customers who are first-time and recent buyers.,2
+3-1-2,New Customers,Customers who are first-time and recent buyers.,2
+3-2-1,New Customers,Customers who are first-time and recent buyers.,2
+3-2-2,New Customers,Customers who are first-time and recent buyers.,2
+3-2-3,New Customers,Customers who are first-time and recent buyers.,2
+3-3-1,New Customers,Customers who are first-time and recent buyers.,2
+3-3-2,New Customers,Customers who are first-time and recent buyers.,2
+3-4-1,New Customers,Customers who are first-time and recent buyers.,2
+3-4-2,New Customers,Customers who are first-time and recent buyers.,2
+4-1-1-,New Customers,Customers who are first-time and recent buyers.,2
+4-1-2,New Customers,Customers who are first-time and recent buyers.,2
+4-2-1,New Customers,Customers who are first-time and recent buyers.,2
+4-2-2,New Customers,Customers who are first-time and recent buyers.,2
+4-2-3,New Customers,Customers who are first-time and recent buyers.,2
+4-3-1,New Customers,Customers who are first-time and recent buyers.,2
+4-3-2,New Customers,Customers who are first-time and recent buyers.,2
+2-3-3,Promising,Customers who have the potential to become loyal customers,3
+2-3-4,Promising,Customers who have the potential to become loyal customers,3
+2-4-1,Promising,Customers who have the potential to become loyal customers,3
+2-4-3,Promising,Customers who have the potential to become loyal customers,3
+3-1-3,Promising,Customers who have the potential to become loyal customers,3
+3-1-4,Promising,Customers who have the potential to become loyal customers,3
+3-2-4,Promising,Customers who have the potential to become loyal customers,3
+3-3-3,Promising,Customers who have the potential to become loyal customers,3
+3-3-4,Promising,Customers who have the potential to become loyal customers,3
+3-4-3,Promising,Customers who have the potential to become loyal customers,3
+4-1-3,Promising,Customers who have the potential to become loyal customers,3
+4-1-4,Promising,Customers who have the potential to become loyal customers,3
+4-2-4,Promising,Customers who have the potential to become loyal customers,3
+4-4-1,Promising,Customers who have the potential to become loyal customers,3
+4-4-2,Promising,Customers who have the potential to become loyal customers,3
+1-1-1,Hibernating customers,Purchased products before but haven't been back in a while,4
+1-1-2,Hibernating customers,Purchased products before but haven't been back in a while,4
+1-1-3,Hibernating customers,Purchased products before but haven't been back in a while,4
+1-1-4,Hibernating customers,Purchased products before but haven't been back in a while,4
+1-2-1,Hibernating customers,Purchased products before but haven't been back in a while,4
+1-2-2,Hibernating customers,Purchased products before but haven't been back in a while,4
+1-2-3,Hibernating customers,Purchased products before but haven't been back in a while,4
+1-3-1,Hibernating customers,Purchased products before but haven't been back in a while,4
+1-3-2,Hibernating customers,Purchased products before but haven't been back in a while,4
+2-2-1,Hibernating customers,Purchased products before but haven't been back in a while,4
+2-2-2,Hibernating customers,Purchased products before but haven't been back in a while,4
+2-3-1,Hibernating customers,Purchased products before but haven't been back in a while,4
+1-2-4,At Risk,Customer groups are disappearing,5
+1-3-3,At Risk,Customer groups are disappearing,5
+1-3-4,At Risk,Customer groups are disappearing,5
+1-4-1,At Risk,Customer groups are disappearing,5
+1-4-2,At Risk,Customer groups are disappearing,5
+1-4-3,At Risk,Customer groups are disappearing,5
+1-4-4,At Risk,Customer groups are disappearing,5
+2-1-2,At Risk,Customer groups are disappearing,5
+2-1-3,At Risk,Customer groups are disappearing,5
+2-1-4,At Risk,Customer groups are disappearing,5
+2-2-1,At Risk,Customer groups are disappearing,5
+2-2-3,At Risk,Customer groups are disappearing,5
+2-2-4,At Risk,Customer groups are disappearing,5
+2-3-2,At Risk,Customer groups are disappearing,5
+2-4-2,At Risk,Customer groups are disappearing,5
+2-4-4,At Risk,Customer groups are disappearing,5
